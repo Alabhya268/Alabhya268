@@ -45,10 +45,3 @@
 </details>
 
 ---
-
-<details>
-  <summary>:zap: Language Used</summary>
-
-  <img align="left" alt="Alabhya268's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alabhya268&layout=compact" />
-
-</details>
